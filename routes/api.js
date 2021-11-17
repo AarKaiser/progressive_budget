@@ -5,6 +5,7 @@ router.post("/api/transaction", ({body}, res) => {
   console.log(body)
   Transaction.create(body)
     .then(dbTransaction => {
+      console.log(dbTransaction)
       res.json(dbTransaction);
     })
     .catch(err => {

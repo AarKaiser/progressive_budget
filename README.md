@@ -35,7 +35,7 @@ N/A
 
 ## Usage
 
-This application can be accessed on Heroku [here](https://aartbudgettracker.herokuapp.com/).
+This application can be accessed on Heroku [here](https://aarbudgettracker.herokuapp.com/).
 
 ## Contributing
 
